@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
 I am a Postdoctoral Research Fellow at the University of Tasmania. 
 
 My primary research interest focuses on the application of microeconomics in health, resources, and energy.
