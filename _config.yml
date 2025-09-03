@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Bassie_photo.png"
+  avatar           : "Bassie_photo.jpg"
   name             : "Bassie Yizengaw Limenih"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Fellow"
