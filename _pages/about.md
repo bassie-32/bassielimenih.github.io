@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wellcome to Bassie's Website !"
+title: "Wellcome to Bassie's Website!"
 author_profile: true
 redirect_from: 
   - /about/
