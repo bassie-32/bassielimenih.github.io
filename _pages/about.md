@@ -7,6 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Dr Bassie is a postdoctoral research fellow in the College of Business and Economics.
-His research interests includes applied economics, which focuses on energy, environmental, and health-related issues. His expertise in stated preference economic valuation and impact evaluation methods enables him to explore the complex effects of economic policies and practices on environmental and public health outcomes. He is also proficient in using statistical software and programming languages, such as Stata, R, and Python, to analyse complex datasets and derive meaningful insights.
 
+I am a Postdoctoral Research Fellow at the University of Tasmania. 
+
+My primary research interest focuses on the application of microeconomics in health, resources, and energy.
+
+     - Valuation of ecosystem services (e.g., biodiversity, carbon sequestration, recreational value of natural areas) 
+      
+     - Conducting cost-effectiveness, cost-utility, and cost-benefit analyses 
+      
+     - Analysing the economics of common-pool resources 
+      
+     - Analysing consumer preferences for renewable energy sources 
+      
+     - Impact evaluation of  health, energy, and environmental policie
